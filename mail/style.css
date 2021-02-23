@@ -1,0 +1,22 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+ font-family: 'Roboto', sans-serif;
+}
+
+.box {
+ height: 200px;
+ width: 80%;
+ margin: 0 auto;
+ margin-top: 30px;
+ padding: 20px;
+ background-color: rgb(96, 221, 184);
+}
+
+.box h1 {
+ text-align: center;
+}
